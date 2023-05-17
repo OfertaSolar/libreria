@@ -1,0 +1,19 @@
+{
+    "name": "ofertasolar/lib",
+    "description": "Librería de Ofertasolar",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Ofertasolar\\Lib\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Arfuengo",
+            "email": "arturofuentealba2002@yahoo.es"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
