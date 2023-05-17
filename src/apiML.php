@@ -1,6 +1,11 @@
 <?php
-require_once("lib/util.php");
-require_once("lib/json.php");
+//require_once("lib/util.php");
+//require_once("lib/json.php");
+
+namespace Ofertasolar\Lib;
+
+use util;
+use json;
 
 /*
 clase apiML

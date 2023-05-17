@@ -1,5 +1,9 @@
 <?php
-require_once("lib/util.php");
+//require_once("lib/util.php");
+
+namespace Ofertasolar\Lib;
+
+use util;
 
 /*
 	Este objeto representa una etiqueta html de la forma:

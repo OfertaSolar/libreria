@@ -1,5 +1,7 @@
 <?php
 
+namespace Ofertasolar\Lib;
+
 
 class util {
 

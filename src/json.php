@@ -1,5 +1,6 @@
 <?php
 
+namespace Ofertasolar\Lib;
 
 class Json {
   public static function JsontoArr($json){
